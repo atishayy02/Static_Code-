@@ -1,0 +1,10 @@
+************* Module inventory_system
+inventory_system.py:78:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:82:0: C0305: Trailing newlines (trailing-newlines)
+inventory_system.py:57:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+inventory_system.py:62:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+inventory_system.py:66:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.21/10 (previous run: 9.21/10, +0.00)
+
